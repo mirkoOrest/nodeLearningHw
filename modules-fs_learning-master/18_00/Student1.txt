@@ -1,0 +1,5 @@
+student1 =
+    {
+     name:'xxx1',
+     age:22
+    };
